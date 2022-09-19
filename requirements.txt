@@ -1,0 +1,14 @@
+apache-airflow==2.3.2
+airflow-provider-kafka==0.1.0
+apache-airflow-providers-ftp==3.0.0
+apache-airflow-providers-http==3.0.0
+apache-airflow-providers-imap==3.0.0
+apache-airflow-providers-sqlite==3.0.0
+kafka-python==2.0.2
+matplotlib==3.5.2
+numpy==1.23.0
+pandas==1.4.3
+PyYAML==6.0
+python-docx==0.8.11
+pyarrow==8.0.0
+pyTelegramBotAPI==4.5.0

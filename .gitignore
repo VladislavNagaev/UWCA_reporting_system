@@ -1,0 +1,24 @@
+__pycache__/
+
+
+
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+
+data/
+logs/
+chmod
+results/
